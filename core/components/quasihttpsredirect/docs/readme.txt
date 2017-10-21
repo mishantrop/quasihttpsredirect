@@ -1,0 +1,2 @@
+# quasiHTTPSRedirect
+A MODX extra.
