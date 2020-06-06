@@ -1,2 +1,7 @@
 # quasiHTTPSRedirect #
-quasiHTTPSRedirect is a simple plugin that handles requests and rederects to https-version.
+Simple plugin for MODX Revolution that handles requests and redirects to https-version.
+
+# Requirements
+* MODX Revolution
+* Apache
+* PHP 5.4 or higher
